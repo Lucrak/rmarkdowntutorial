@@ -34,3 +34,11 @@ wheel("darkred", num = 40, verbose = F)
 ```{r,message=FALSE}
 display.brewer.all()
 ```
+
+Quelles couleurs doivent être utilisées et que signifie chaque couleur dans la palette (les couleurs qui sont compatibles entre eux). 
+
+
+Couleurs:
+RClour <- palette (35)
+#EEE22 : feu vert
+Red: bad result

@@ -11,3 +11,4 @@ Formats:
 	- D3
 	- echart4R
 - Shiny (shiny Modules)
+	- reactable ()
