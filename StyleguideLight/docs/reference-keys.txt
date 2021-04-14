@@ -4,6 +4,8 @@ intro
 présentation-des-insights
 intérêt-dune-présentation
 couleurs
+tsl
+rainbow-pie-chart
 les-graphiques
 les-légendes
 design-particuliers

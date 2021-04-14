@@ -29,6 +29,10 @@ Loading libraries:
 library(DT)
 library(ggplot2)
 library(xfun)
+library(dplyr)
+library(highcharter)
+library(plotly)
+library(ggplot2)
 ```
 
 ## Analysis {-}
